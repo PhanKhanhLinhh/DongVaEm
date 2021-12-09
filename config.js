@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Đinh Phúc Đông tặng cậu",
+    titleWeb: "Phan Khánh Linh tặng cậu",
     introTitle: 'Đọc đi nhé',
     introDesc: `Mình thấy bạn rất cute dễ thương 
     xinh đẹp hiền lành nết na  
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà. Mình cũng thích cậu lắm',
     messDesc: 'Nhắn tin cho mình đi rùi mình iu nhau.',
     btnAccept: 'Ấn vô đây nè',
-    messLink: 'https://m.me/DinhPhucDong.xD' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/phan.khanhlinh21' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
